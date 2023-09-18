@@ -2,10 +2,8 @@
 <link rel="stylesheet" href="main.css">
 <meta charset="utf-8">
 
-<nav>
-    <li><a href="https://github.com/HarderFasterBetterStronger" class="currentPage">IsaacL</a></li>
-</nav>
 
+#  IsaacL
 
 **`Hong Kong Polytechnic University (Year3)`**
 
