@@ -1,0 +1,19 @@
+
+
+
+
+nav{
+    list-style-type: none;
+    padding: 10px;
+    
+
+}
+nav li {
+    display: inline;
+    
+}
+nav li a {
+    text-decoration: none;
+    color: rgb(70, 203, 243);
+    font-size: 40px;
+}
