@@ -7,7 +7,7 @@
 
 **`Hong Kong Polytechnic University (Year3)`**
 
-A year-3 student major in Internet & Multimedia Technology.(IMT)
+A year-4 student major in Internet & Multimedia Technology.(IMT)
 
 
 
