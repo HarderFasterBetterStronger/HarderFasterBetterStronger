@@ -5,9 +5,9 @@
 
 #  IsaacL
 
-**`Hong Kong Polytechnic University (Year3)`**
+**`Hong Kong Polytechnic University`**
 
-A year-4 student major in Internet & Multimedia Technology.(IMT)
+A student major in Internet & Multimedia Technology.(IMT)
 
 
 
