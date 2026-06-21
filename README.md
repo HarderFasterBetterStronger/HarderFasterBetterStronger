@@ -11,7 +11,7 @@ AI-Oriented Programmer
 
 #
 
-**`Projects`**
+**`Projects`**  
 Simple Inpainting programme: https://github.com/HarderFasterBetterStronger/Simple-image-inpainting-  
 Poker Cash Preflop: [https://harderfasterbetterstronger.github.io/GTO-Preflop/](https://harderfasterbetterstronger.github.io/GTO-Preflop/)  
 Poker MTT Preflop: [https://harderfasterbetterstronger.github.io/GTO-Preflop/](https://harderfasterbetterstronger.github.io/MTT-Preflop-Range/)  
