@@ -8,8 +8,16 @@
 **`Hong Kong Polytechnic University(2021~2026)`**
 #
 Major in Internet & Multimedia Technology.(IMT)
-
 AI-Oriented Programmer
+
+#
+
+**`Projects`**
+Simple Inpainting programme: https://github.com/HarderFasterBetterStronger/Simple-image-inpainting-
+Poker Cash Preflop: [https://harderfasterbetterstronger.github.io/GTO-Preflop/](https://harderfasterbetterstronger.github.io/GTO-Preflop/)
+Poker MTT Preflop: [https://harderfasterbetterstronger.github.io/GTO-Preflop/](https://harderfasterbetterstronger.github.io/MTT-Preflop-Range/)
+My Poker Website: https://www.harderpoker.win/
+
 
 
 
