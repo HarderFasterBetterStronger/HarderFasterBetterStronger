@@ -12,10 +12,11 @@ AI-Oriented Programmer
 #
 
 **`Projects`**  
+**My Poker Website: https://www.harderpoker.win/  **
 Simple Inpainting programme: https://github.com/HarderFasterBetterStronger/Simple-image-inpainting-  
 Poker Cash Preflop: [https://harderfasterbetterstronger.github.io/GTO-Preflop/](https://harderfasterbetterstronger.github.io/GTO-Preflop/)  
 Poker MTT Preflop: [https://harderfasterbetterstronger.github.io/GTO-Preflop/](https://harderfasterbetterstronger.github.io/MTT-Preflop-Range/)  
-My Poker Website: https://www.harderpoker.win/  
+
 
 
 
