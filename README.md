@@ -8,7 +8,7 @@
 **`Undergraduate - Hong Kong Polytechnic University(2021~2026)`**  Major in Internet & Multimedia Technology.(IMT)  
 **`Master - NTU(2026~2027)`**  Signal Processing & Machine Learning(SPML)  
 
-AI-Oriented Programmer  
+AI-Agent Engineer  
 
 #
 
